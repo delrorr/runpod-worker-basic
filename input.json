@@ -1,0 +1,12 @@
+{
+    "input_image": "base64_string (optional)",
+    "prompt": "text description",
+    "height": 896,
+    "width": 896,
+    "negative_prompt": "negative text",
+    "duration_seconds": 2.0,
+    "guidance_scale": 0.0,
+    "steps": 4,
+    "seed": 42,
+    "randomize_seed": false
+}
