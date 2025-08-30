@@ -1,1 +1,11 @@
 runpod==1.7.12
+git+https://github.com/huggingface/diffusers.git
+transformers
+accelerate
+safetensors
+sentencepiece
+peft
+ftfy
+imageio-ffmpeg
+opencv-python
+einops
